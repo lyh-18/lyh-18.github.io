@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -18,8 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Scientist at Shanghai Artificial Intelligence Laboratory, where I currently lead a team specializing in low-level vision research. I earned my Bachelor's degree in 2018 and my Ph.D. in 2023, both from the University of Chinese Academy of Sciences (UCAS). During my doctoral studies, I was affiliated with the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, under the supervision of Prof. Yu Qiao and Prof. Chao Dong. My research interests primarily focus on computer vision, image/video restoration and enhancement techniques.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my academic journey, I have been honored with prestigious awards, including the President’s Award of the Chinese Academy of Sciences, the Zhu Li Yue Hua Outstanding Doctoral Student Award, the CAS Excellent Youth League Member Award, the Beijing Outstanding Graduate Award, and the SIAT President’s Innovation Award. I have also achieved noticeable results in various international and national competitions, such as 1st place in the PIRM 2018 Perceptual Image Super-Resolution Challenge, 1st place in the AIM 2020 Video Frame Interpolation Challenge, 2nd place in the NTIRE 2021 HDR Enhancement Challenge, 3rd place in the UDC 2020 Under-Display Camera Restoration Challenge. Additionally, I serve as a reviewer for various top journals and conferences, including TPAMI, TIP, TCSVT, TMM, CVPR, ICCV, ECCV, NeurIPS, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Current Research Focus:
+- `Image and Video Restoration`: Achieving edge-cutting restoration performance using generative priors.
+- `General Low-Level Vision Models`: Developing multi-functional image processing tools by integrating multimodal technologies.
+- `Real-World Applications of Image Enhancement`: Applying advanced techniques to real-world scenarios.
+
+I am open to collaboration and discussions. Feel free to reach out at liuyihao14@mails.ucas.ac.cn.
