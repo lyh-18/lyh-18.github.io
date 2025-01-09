@@ -18,13 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist at Shanghai Artificial Intelligence Laboratory, where I currently lead a team specializing in low-level vision research. I earned my Bachelor's degree in 2018 and my Ph.D. in 2023, both from the University of Chinese Academy of Sciences (UCAS). During my doctoral studies, I was affiliated with the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, under the supervision of Prof. Yu Qiao and Prof. Chao Dong. My research interests primarily focus on computer vision, image/video restoration and enhancement techniques.
+[Google scholar](https://scholar.google.com/citations?user=WRIYcNwAAAAJ&hl=en) | [Github](https://github.com/lyh-18)
 
-Throughout my academic journey, I have been honored with prestigious awards, including the President’s Award of the Chinese Academy of Sciences, the Zhu Li Yue Hua Outstanding Doctoral Student Award, the CAS Excellent Youth League Member Award, the Beijing Outstanding Graduate Award, and the SIAT President’s Innovation Award. I have also achieved noticeable results in various international and national competitions, such as 1st place in the PIRM 2018 Perceptual Image Super-Resolution Challenge, 1st place in the AIM 2020 Video Frame Interpolation Challenge, 2nd place in the NTIRE 2021 HDR Enhancement Challenge, 3rd place in the UDC 2020 Under-Display Camera Restoration Challenge. Additionally, I serve as a reviewer for various top journals and conferences, including TPAMI, TIP, TCSVT, TMM, CVPR, ICCV, ECCV, NeurIPS, etc.
+I am a Research Scientist at Shanghai Artificial Intelligence Laboratory, where I currently lead a team specializing in low-level vision research. I earned my Bachelor's degree in 2018 and my Ph.D. in 2023, both from the University of Chinese Academy of Sciences (UCAS). During my doctoral studies, I was affiliated with the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, under the supervision of Prof. Yu Qiao and Prof. Chao Dong. My research focuses on computer vision, particularly image and video restoration, enhancement techniques, and their real-world applications.
+
+Throughout my student journey, I have been honored with prestigious awards, including the President’s Award of the Chinese Academy of Sciences, the Zhu Li Yue Hua Outstanding Doctoral Student Award, the CAS Excellent Youth League Member Award, the Beijing Outstanding Graduate Award, and the SIAT President’s Innovation Award. 
+
+I have also excelled in multiple international and national competitions, such as 1st place in the PIRM 2018 Perceptual Image Super-Resolution Challenge, 1st place in the AIM 2020 Video Frame Interpolation Challenge, 2nd place in the NTIRE 2021 HDR Enhancement Challenge, 3rd place in the UDC 2020 Under-Display Camera Restoration Challenge. Additionally, I serve as a reviewer for various top journals and conferences, including TPAMI, TIP, TCSVT, TMM, CVPR, ICCV, ECCV, NeurIPS, etc.
 
 Current Research Focus:
-- `Image and Video Restoration`: Achieving edge-cutting restoration performance using generative priors.
-- `General Low-Level Vision Models`: Developing multi-functional image processing tools by integrating multimodal technologies.
-- `Real-World Applications of Image Enhancement`: Applying advanced techniques to real-world scenarios.
+- `Advanced Image and Video Restoration`: Aiming to push the boundaries of restoration techniques to recover fine details and realistic textures from severely degraded inputs leveraging generative priors.
+- `General Low-Level Vision Models`: Developing unified multimodal frameworks that consolidate various low-level vision tasks (e.g., restoration, enhancement, style transfer, and feature extraction) into a single, multi-functional model.
+- `Real-World Applications of Image Enhancement`: Bridging the gap between laboratory research and real-world scenarios in low-level vision field. My research explores the application of low-level vision techniques in domains such as autonomous driving, smart imaging systems, and consumer devices. 
 
 I am open to collaboration and discussions. Feel free to reach out at liuyihao14@mails.ucas.ac.cn.
