@@ -431,16 +431,20 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-proposed-lightweight-photo-retouching-method-csrnet-was-accepted-by-eccv2020",
+          title: 'Our proposed lightweight photo retouching method CSRNet was accepted by ECCV2020.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-we-have-won-the-1st-place-of-aim2020-video-temporal-super-resolution-challenge-in-conjunction-with-eccv2020-the-technique-report-of-the-proposed-eqvi-model-can-be-found-at-here-the-official-challenge-report-can-be-found-at-here",
+          title: 'We have won the 1st place of AIM2020 Video Temporal Super-Resolution Challenge (in...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-we-have-won-the-3rd-place-of-udc2020-challenge-on-image-restoration-of-under-display-camera-in-conjunction-with-eccv2020-the-technique-report-of-the-proposed-rdunet-model-can-be-found-at-here-the-official-challenge-report-can-be-found-at-here",
+          title: 'We have won the 3rd place of UDC2020 Challenge on Image Restoration of...',
+          description: "",
+          section: "News",},{id: "news-the-extention-version-of-the-lightweight-photo-retouching-network-csrnet-has-been-accepted-by-tmm-paper-links-conference-version-journal-version",
+          title: 'The extention version of the lightweight photo retouching network CSRNet has been accepted...',
+          description: "",
+          section: "News",},{id: "news-our-survey-on-blind-image-super-resolution-has-been-accepted-by-tpami",
+          title: 'Our survey on Blind Image Super-Resolution has been accepted by TPAMI.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
