@@ -47,8 +47,8 @@
   // ],
   "education": [
     {
-      "institution": "University of Chinese Academy of Sciences (UCAS)",
-      "affiliation": "Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences",
+      // "institution": "University of Chinese Academy of Sciences (UCAS)",
+      "institution": "Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences",
       "location": "Shenzhen, Guangdong Province, China",
       "studyType": "PhD",
       "startDate": "2018",
