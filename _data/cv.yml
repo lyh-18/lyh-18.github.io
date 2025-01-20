@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Yihao Liu
+    - name: Occupation
+      value: Research Scientist
+    - name: Email
+      value: liuyihao14@mails.ucas.ac.cn
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Chinese Academy of Sciences (UCAS)
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - affiliation: Shenzhen Institutes of Advanced Technology (SIAT), CAS
+        - location: Shenzhen, Guangdong, China
+        - website: https://www.siat.ac.cn/
+
+    - title: Bachelor
+      institution: University of Chinese Academy of Sciences (UCAS)
+      year: 2014 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - location: Beijing, China
+        - website: http://www.ucas.ac.cn/
 
 - title: Experience
   type: time_table
