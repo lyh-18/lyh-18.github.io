@@ -15,16 +15,16 @@
       institution: University of Chinese Academy of Sciences (UCAS)
       year: 2018 - 2023
       description:
-        - affiliation: Shenzhen Institutes of Advanced Technology (SIAT), CAS
-        - location: Shenzhen, Guangdong, China
-        - website: https://www.siat.ac.cn/
+        - 'affiliation: Shenzhen Institutes of Advanced Technology (SIAT), CAS'
+        - 'location: Shenzhen, Guangdong, China'
+        - 'website: https://www.siat.ac.cn/'
 
     - title: Bachelor
       institution: University of Chinese Academy of Sciences (UCAS)
       year: 2014 - 2018
       description:
-        - location: Beijing, China
-        - website: http://www.ucas.ac.cn/
+        - 'location: Beijing, China'
+        - 'website: http://www.ucas.ac.cn/'
 
 - title: Experience
   type: time_table
