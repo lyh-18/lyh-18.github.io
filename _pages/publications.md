@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: ^* indicates co-first authors 
 nav: true
 nav_order: 2
 ---
