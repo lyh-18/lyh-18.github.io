@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our survey on **Blind Image Super-Resolution** has been accepted by TPAMI. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9870558)
+Our survey on **Blind Image Super-Resolution** has been accepted by **TPAMI**. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9870558)
