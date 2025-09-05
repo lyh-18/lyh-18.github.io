@@ -26,7 +26,8 @@ Throughout my student journey, I have been honored with prestigious awards, incl
 
 I have also excelled in multiple international and national competitions, such as 1st place in the PIRM 2018 Perceptual Image Super-Resolution Challenge, 1st place in the AIM 2020 Video Frame Interpolation Challenge, 2nd place in the NTIRE 2021 HDR Enhancement Challenge, 3rd place in the UDC 2020 Under-Display Camera Restoration Challenge. I serve as a reviewer for various top journals and conferences, including TPAMI, TIP, TCSVT, TMM, CVPR, ICCV, ECCV, NeurIPS, etc.
 
-Current Research Focus:
+**Current Research Focus**
+
 My current research focuses on pioneering a new generation of multimodal foundation models that integrate generation and understanding within a unified architecture. Specifically:
 - `Unified Multimodal Architectures`: Designing new-generation frameworks (e.g., discrete diffusion, autoregressive hybrids) that integrate text, image, video, and audio tasks, enabling coherent cross-modal representation, reasoning, and generation.
 - `Knowledge-Driven and Causality-Aware Modeling`: Embedding structured world knowledge, physical realism, and causal reasoning into multimodal models, moving beyond perceptual fidelity toward scientifically grounded and logically consistent outputs.
