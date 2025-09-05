@@ -417,7 +417,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-video-restoration-method-diffvsr-was-accepted-by-iccv2025-paper-homepage",
           title: 'Our video restoration method DiffVSR was accepted by ICCV2025. [Paper] [Homepage]',
           description: "",
-          section: "News",},{id: "news-we-introduce-artimuse-a-multimodal-large-language-model-mllm-for-professional-aesthetic-understanding-which-is-trained-on-artimuse-10k-a-meticulously-curated-expert-annotated-dataset-artimuse-10k-systematically-defines-eight-explainable-and-fine-grained-aesthetic-attributes-e-g-composition-amp-amp-design-visual-elements-amp-amp-structure-with-a-wide-coverage-of-diverse-visual-domains-including-graphic-design-3d-design-aigc-generated-images-photography-and-painting-amp-amp-calligraphy-paper-homepage-github-online-demo-v1-0",
+          section: "News",},{id: "news-we-introduce-artimuse-a-multimodal-large-language-model-mllm-for-professional-aesthetic-understanding-which-is-trained-on-artimuse-10k-a-meticulously-curated-expert-annotated-dataset-artimuse-10k-systematically-defines-eight-explainable-and-fine-grained-aesthetic-attributes-e-g-composition-amp-amp-design-visual-elements-amp-amp-structure-with-a-wide-coverage-of-diverse-visual-domains-including-graphic-design-3d-design-aigc-generated-images-photography-and-painting-amp-amp-calligraphy-paper-homepage-github-online-demo-v1-0-note-artimuse-was-officially-released-at-waic-2025-in-the-forum-evolving-with-ai-the-iteration-and-resilience-of-artistic-creativity",
           title: 'We introduce ArtiMuse, a multimodal large language model (MLLM) for professional aesthetic understanding,...',
           description: "",
           section: "News",},{id: "projects-project-1",
