@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "^* indicates co-first authors",
+          description: "* indicates co-first authors",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -407,6 +407,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-genlv-was-accepted-by-acm-mm2024-genlv-is-a-successive-work-of-promptgip-which-further-broadens-the-tasks-and-improves-performance-the-paper-can-be-found-at-here",
           title: 'GenLV was accepted by ACM MM2024. GenLV is a successive work of PromptGIP,...',
+          description: "",
+          section: "News",},{id: "news-our-video-colorization-method-tcvc-has-won-the-cvmj-2025-best-paper-honorable-mention-award",
+          title: 'Our video colorization method TCVC has won the CVMJ 2025 Best Paper Honorable...',
+          description: "",
+          section: "News",},{id: "news-our-video-restoration-method-diffvsr-was-accepted-by-iccv2025-paper-homepage",
+          title: 'Our video restoration method DiffVSR was accepted by ICCV2025. [Paper] [Homepage]',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
