@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[Google scholar](https://scholar.google.com/citations?user=WRIYcNwAAAAJ&hl=en) | [Github](https://github.com/lyh-18) | 
+[Google scholar](https://scholar.google.com/citations?user=WRIYcNwAAAAJ&hl=en) | [Github](https://github.com/lyh-18) | [XiaoHongShu](https://xhslink.com/m/DxVDvYCLAs) |
 
 I am a Research Scientist at the Shanghai Artificial Intelligence Laboratory, where I lead a team focusing on **multimodal generation and understanding**. I earned my Bachelor's degree in 2018 and my Ph.D. in 2023, both from the University of Chinese Academy of Sciences ([UCAS](http://www.ucas.ac.cn/)). During my doctoral studies, I was affiliated with the Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, under the supervision of Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en) and Prof. [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en). My research lies at the intersection of computer vision, generative modeling, and scientific intelligence, with particular emphasis on multimodal foundation models and image/video enhancement.
 
@@ -34,4 +34,4 @@ My current research focuses on pioneering a new generation of multimodal foundat
 - `General Low-Level Vision Models`: Consolidating diverse low-level vision tasks — restoration, enhancement, style transfer, and dense prediction — into a robust multimodal framework, advancing detail recovery, fidelity, and generalization for real-world applications.
 - `Post-training and Reward Alignment`: Developing multimodal alignment and reinforcement learning paradigms, incorporating human preference modeling and expert feedback, to ensure outputs that are not only high-quality and aesthetic but also reliable, interpretable, and scientifically valid.
 
-I am open to collaboration and discussions. Feel free to reach out at liuyihao14@mails.ucas.ac.cn or liuyihao@pjlab.org.cn
+I am open to collaboration and discussions. Feel free to reach out at liuyihao@pjlab.org.cn or liuyihao14@mails.ucas.ac.cn
