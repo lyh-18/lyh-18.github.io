@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four papers accepted by **CVPR'26**. Welcome to explore ArtiMuse(https://github.com/thunderbolt215/ArtiMuse) (An advanced, expert-level multimodal IAA model).
+Four papers accepted by **CVPR'26**. Welcome to explore [ArtiMuse](https://github.com/thunderbolt215/ArtiMuse) (An advanced, expert-level multimodal IAA model).
