@@ -441,6 +441,20 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.visitor-map {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0 0.5rem;
+  min-height: 160px;
+  overflow: hidden;
+
+  iframe,
+  object,
+  embed {
+    max-width: 100%;
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
