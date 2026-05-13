@@ -443,21 +443,18 @@ ul.task-list input[type="checkbox"] {
 
 .visitor-stats {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 0.5rem 1.25rem;
   margin: 1.25rem 0 0.5rem;
-  color: var(--global-text-color-light);
-  font-size: 0.875rem;
 
-  span {
-    white-space: nowrap;
+  a {
+    display: inline-flex;
+    max-width: 100%;
   }
 
-  strong {
-    color: var(--global-theme-color);
-    font-weight: 500;
+  img {
+    max-width: 100%;
+    height: auto;
   }
 }
 
