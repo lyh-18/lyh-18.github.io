@@ -441,28 +441,23 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.visitor-map {
+.visitor-stats {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 0.5rem;
-  margin: 1.5rem 0 0.5rem;
-  overflow: hidden;
+  gap: 0.5rem 1.25rem;
+  margin: 1.25rem 0 0.5rem;
+  color: var(--global-text-color-light);
+  font-size: 0.875rem;
 
-  .visitor-map-widget {
-    max-width: 100%;
-    min-height: 120px;
+  span {
+    white-space: nowrap;
   }
 
-  .visitor-map-fallback {
-    font-size: 0.875rem;
-  }
-
-  iframe,
-  object,
-  embed {
-    max-width: 100%;
+  strong {
+    color: var(--global-theme-color);
+    font-weight: 500;
   }
 }
 

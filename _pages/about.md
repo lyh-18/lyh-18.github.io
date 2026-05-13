@@ -16,7 +16,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-visitor_map: true # includes a visitor map widget at the bottom of the home page
+visitor_stats: true # includes visitor statistics at the bottom of the home page
 ---
 
 [Google scholar](https://scholar.google.com/citations?user=WRIYcNwAAAAJ&hl=en) | [Github](https://github.com/lyh-18) | [XiaoHongShu](https://xhslink.com/m/DxVDvYCLAs) |
