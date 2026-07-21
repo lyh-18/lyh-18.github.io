@@ -283,6 +283,9 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+  # Keep the curated order in papers.bib. The homepage uses this order to put
+  # accepted papers before arXiv-only preprints and keep venues together.
+  sort_by: none
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
