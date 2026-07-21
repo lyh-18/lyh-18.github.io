@@ -46,8 +46,39 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+    {% comment %}Choose the most direct paper link available. Some entries keep the
+    arXiv identifier in the journal field rather than in a dedicated field.{% endcomment %}
+    {% assign paper_url = null %}
+    {% assign paper_arxiv = entry.arxiv | default: entry.eprint %}
+    {% if paper_arxiv == blank and entry.journal contains 'arXiv:' %}
+      {% assign paper_arxiv = entry.journal | split: 'arXiv:' | last | strip %}
+    {% endif %}
+    {% if entry.url %}
+      {% assign paper_url = entry.url %}
+    {% elsif entry.html %}
+      {% if entry.html contains '://' %}
+        {% assign paper_url = entry.html %}
+      {% else %}
+        {% assign paper_url = entry.html | prepend: '/assets/html/' | relative_url %}
+      {% endif %}
+    {% elsif entry.pdf %}
+      {% if entry.pdf contains '://' %}
+        {% assign paper_url = entry.pdf %}
+      {% else %}
+        {% assign paper_url = entry.pdf | prepend: '/assets/pdf/' | relative_url %}
+      {% endif %}
+    {% elsif paper_arxiv != blank %}
+      {% assign paper_url = paper_arxiv | prepend: 'https://arxiv.org/abs/' %}
+    {% elsif entry.doi %}
+      {% assign paper_url = entry.doi | prepend: 'https://doi.org/' %}
+    {% else %}
+      {% assign escaped_title = entry.title | strip_html | uri_escape %}
+      {% assign paper_url = escaped_title | prepend: 'https://scholar.google.com/scholar?q=' %}
+    {% endif %}
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      <a href="{{ paper_url }}" aria-label="Read {{ entry.title | strip_html | escape }}">{{ entry.title }}</a>
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -197,6 +228,8 @@
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+      {% elsif paper_arxiv != blank %}
+        <a href="https://arxiv.org/abs/{{ paper_arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
