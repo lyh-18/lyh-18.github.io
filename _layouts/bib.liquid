@@ -53,6 +53,9 @@
     {% if paper_arxiv == blank and entry.journal contains 'arXiv:' %}
       {% assign paper_arxiv = entry.journal | split: 'arXiv:' | last | strip %}
     {% endif %}
+    {% if paper_arxiv == blank and entry.url contains 'arxiv.org/abs/' %}
+      {% assign paper_arxiv = entry.url | split: 'arxiv.org/abs/' | last | split: '?' | first | split: '#' | first | strip %}
+    {% endif %}
     {% if entry.url %}
       {% assign paper_url = entry.url %}
     {% elsif entry.html %}
