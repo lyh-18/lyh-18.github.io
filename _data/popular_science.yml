@@ -1,13 +1,13 @@
 # Add future articles here. Supported art values: gravity, truth, gourd, soil, 5g.
 - title: 物理定律告诉你，天下有情人终将分手！
-  url: https://mp.weixin.qq.com/s/_dEUZbKgWQ5kPcf-LI8xjw2
+  url: https://mp.weixin.qq.com/s/_dEUZbKgWQ5kPcf-LI8xjw
   theme: coral
   art: gravity
   tags: [经典力学, 热力学, 量子力学]
   summary: 如果用物理学给爱情建模，单身是偶然，还是宇宙最稳定的基态？
 
 - title: 物理定律告诉你，爱情的真相有多么残酷！
-  url: https://mp.weixin.qq.com/s/sI9PHr2CpH3hz2i4951rSg3
+  url: https://mp.weixin.qq.com/s/sI9PHr2CpH3hz2i4951rSg
   theme: violet
   art: truth
   tags: [物理学, 爱情模型]
@@ -21,7 +21,7 @@
   summary: 千里眼、刀枪不入、喷火与隐身：童年神技背后，藏着哪些科学原理？
 
 - title: 双十一过后，如何科学地吃土？
-  url: https://mp.weixin.qq.com/s/C8XF8xT4z5KKf6FQTxti7g5
+  url: https://mp.weixin.qq.com/s/C8XF8xT4z5KKf6FQTxti7g
   theme: teal
   art: soil
   tags: [双十一, 土壤科学, 生活]
