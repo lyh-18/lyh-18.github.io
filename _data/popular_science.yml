@@ -1,0 +1,35 @@
+# Add future articles here. Supported art values: gravity, truth, gourd, soil, 5g.
+- title: 物理定律告诉你，天下有情人终将分手！
+  url: https://mp.weixin.qq.com/s/_dEUZbKgWQ5kPcf-LI8xjw2
+  theme: coral
+  art: gravity
+  tags: [经典力学, 热力学, 量子力学]
+  summary: 如果用物理学给爱情建模，单身是偶然，还是宇宙最稳定的基态？
+
+- title: 物理定律告诉你，爱情的真相有多么残酷！
+  url: https://mp.weixin.qq.com/s/sI9PHr2CpH3hz2i4951rSg3
+  theme: violet
+  art: truth
+  tags: [物理学, 爱情模型]
+  summary: 浪漫碰上公式，心动、磨合与分离，都有了一套意想不到的解释。
+
+- title: 葫芦娃中的那些黑科技！
+  url: https://mp.weixin.qq.com/s/5mXRaTpUzxxkdg0fBMrfRQ
+  theme: yellow
+  art: gourd
+  tags: [动画, 跨学科, 黑科技]
+  summary: 千里眼、刀枪不入、喷火与隐身：童年神技背后，藏着哪些科学原理？
+
+- title: 双十一过后，如何科学地吃土？
+  url: https://mp.weixin.qq.com/s/C8XF8xT4z5KKf6FQTxti7g5
+  theme: teal
+  art: soil
+  tags: [双十一, 土壤科学, 生活]
+  summary: 钱包清空以后，不妨认真研究一下：我们嘴边的“土”，究竟是什么？
+
+- title: 5G来了，你离脱单还有多远？
+  url: https://mp.weixin.qq.com/s/P0BXX8LwrLS6pPWf7PDkhQ
+  theme: blue
+  art: 5g
+  tags: [5G, 通信技术, 社交]
+  summary: 速度更快、延迟更低、连接更多——下一代通信技术会怎样改变人与人的距离？
