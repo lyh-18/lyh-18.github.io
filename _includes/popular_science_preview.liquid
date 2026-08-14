@@ -1,0 +1,39 @@
+{% assign science_articles = site.data.popular_science %}
+{% if science_articles and science_articles.size > 0 %}
+  <section class="home-science" aria-labelledby="home-science-title">
+    <div class="home-section-heading">
+      <div>
+        <span class="science-kicker">BEYOND RESEARCH</span>
+        <h2 id="home-science-title">科普 · Popular Science</h2>
+      </div>
+      <a href="{{ '/popular-science/' | relative_url }}">查看全部 {{ science_articles.size }} 篇 <span aria-hidden="true">→</span></a>
+    </div>
+
+    <p class="home-science-intro">
+      热爱科普创作，喜欢“一本正经地胡说八道”：把枯燥的原理塞进日常，把硬核的知识装进脑洞；让科学多一点趣味，让科研少一点距离——读得有趣，想得明白，看得见，也摸得着。
+    </p>
+
+    <div class="home-science-grid">
+      {% for article in science_articles limit: 3 %}
+        <a class="home-science-card card-{{ article.theme }}" href="{{ article.url }}" target="_blank" rel="noopener noreferrer">
+          <div class="home-science-art art-{{ article.art }}" aria-hidden="true">
+            {% case article.art %}
+              {% when 'gravity' %}<span>F = G</span><i>♥</i>
+              {% when 'truth' %}<span>ΔS ≥ 0</span><i>♥</i>
+              {% when 'gourd' %}<span>SCI–FI</span><i>⚡</i>
+              {% when 'soil' %}<span>11.11</span><i>♧</i>
+              {% when '5g' %}<span>5G</span><i>⌁</i>
+              {% when 'face-id' %}<span>FACE ID</span><i>♟</i>
+              {% else %}<span>SCIENCE</span><i>✦</i>
+            {% endcase %}
+          </div>
+          <div class="home-science-copy">
+            <div class="card-tags">{% for tag in article.tags limit: 2 %}<span>{{ tag }}</span>{% endfor %}</div>
+            <h3>{{ article.title }}</h3>
+            <span class="home-read-link">阅读原文 ↗</span>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}

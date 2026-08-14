@@ -4,9 +4,11 @@
     - name: Full Name
       value: Yihao Liu
     - name: Occupation
-      value: Research Scientist
+      value: Research Scientist, Shanghai Artificial Intelligence Laboratory
     - name: Email
-      value: liuyihao14@mails.ucas.ac.cn
+      value: <a href="mailto:liuyihao@pjlab.org.cn">liuyihao@pjlab.org.cn</a> · <a href="mailto:liuyihao14@mails.ucas.ac.cn">liuyihao14@mails.ucas.ac.cn</a>
+    - name: Links
+      value: <a href="https://scholar.google.com/citations?user=WRIYcNwAAAAJ&hl=en">Google Scholar</a> · <a href="https://github.com/lyh-18">GitHub</a>
 
 - title: Education
   type: time_table
@@ -31,12 +33,42 @@
   contents:
     - title: Research Scientist
       institution: Shanghai Artificial Intelligence Laboratory
-      year: 2023
+      year: 2023 - Present
       description:
-        - Leading a team specializing in multimodal generation and understanding.
+        - Leading a team focused on multimodal generation and understanding.
+        - Researching unified multimodal architectures, knowledge- and causality-aware modeling, general low-level vision models, and post-training and reward alignment.
 
-- title: Hobbies
+- title: Research Interests
   type: list
   contents:
-    - <u>Badminton:</u> Strive to become the best badminton player among computer vision researchers (perhaps only in low-level vision field), hahaha...
-    - <u>Science popularization:</u> I have written many popular science articles, such as <a href="https://zhuanlan.zhihu.com/p/33820554"><<物理定律告诉你，天下有情人终将分手>></a> (Physical laws tell you that lovers in the world will eventually break up)  :)
+    - Unified multimodal foundation models for text, image, video, and audio generation and understanding
+    - Knowledge-driven and causality-aware modeling for scientifically grounded and logically consistent outputs
+    - General low-level vision, including restoration, enhancement, style transfer, and dense prediction
+    - Multimodal post-training, reward modeling, and human/expert preference alignment
+
+- title: Selected Honors & Awards
+  type: time_table
+  contents:
+    - title: Best Paper Honorable Mention
+      institution: CVMJ
+    - title: President’s Award
+      institution: Chinese Academy of Sciences
+    - title: Zhu Li Yue Hua Outstanding Doctoral Student Award
+      institution: University of Chinese Academy of Sciences
+    - title: President’s Innovation Award
+      institution: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+    - title: Outstanding Graduate of Beijing
+      institution: Beijing Municipality
+
+- title: Science Communication & Outreach
+  type: list
+  contents:
+    - Former Director of the official WeChat editorial team at the University of Chinese Academy of Sciences, exploring a research-minded approach to science communication and campus media.<br><span lang="zh-CN">曾任中国科学院大学官方微信编辑部主任，以科研思维探索科普传播与校园新媒体运营。</span>
+    - Author of popular-science stories that connect rigorous concepts with everyday life, including <a href="/popular-science/">Physical Laws Tell You That All Lovers Will Eventually Break Up</a> and <a href="/popular-science/">The “Black Technologies” in Calabash Brothers</a>.<br><span lang="zh-CN">创作多篇连接严谨科学与日常生活的趣味科普文章，代表作包括《物理定律告诉你，天下有情人终将分手！》和《葫芦娃中的那些黑科技！》。</span>
+    - Created and contributed to interactive science-communication projects using face landmark detection, neural style transfer, and automatic colorization for UCAS’s 40th anniversary.<br><span lang="zh-CN">为国科大四十周年校庆策划并参与互动科普项目，将人脸关键点检测、神经风格迁移和自动上色等技术用于新媒体创作。</span>
+    - The representative physics-and-love article received more than 10 million views and appeared on Weibo’s trending list.<br><span lang="zh-CN">代表作“物理学与爱情”系列文章阅读量超过千万，并登上微博热搜。</span>
+
+- title: Interests
+  type: list
+  contents:
+    - <u>Badminton:</u> Strive to become the best badminton player among AI researchers (perhaps only in multimodal field), hahaha...

@@ -43,6 +43,7 @@ description: 把硬核知识，讲成有趣的故事。
             {% when 'gourd' %}<i class="gourd-head"></i><i class="gourd-body"></i><b class="gourd-ray ray-a"></b><b class="gourd-ray ray-b"></b><b class="gourd-ray ray-c"></b>
             {% when 'soil' %}<i class="parcel">11.11</i><b class="soil-layer layer-a"></b><b class="soil-layer layer-b"></b><b class="soil-layer layer-c"></b><em class="sprout">♧</em>
             {% when '5g' %}<i class="phone phone-a">●</i><i class="phone phone-b">♥</i><b class="signal signal-a"></b><b class="signal signal-b"></b><strong>5G</strong>
+            {% when 'face-id' %}<i class="face-frame">⌗</i><i class="degree-cap">◆</i><b class="scan-line"></b><strong class="ai-label">AI</strong>
             {% else %}<span class="art-fallback">✦</span>
           {% endcase %}
         </div>

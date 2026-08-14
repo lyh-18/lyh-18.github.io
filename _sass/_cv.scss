@@ -2,6 +2,216 @@
  * CV shared styles
  *****************************/
 
+.cv {
+  --cv-blue: #4d7fe8;
+  --cv-violet: #8a69d4;
+  --cv-coral: #ef735f;
+  --cv-gold: #e7ad36;
+  --cv-teal: #32a89a;
+  counter-reset: cv-section;
+
+  > .card {
+    position: relative;
+    overflow: hidden;
+    padding: 1.55rem 1.65rem !important;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 18px;
+    box-shadow: 0 5px 18px rgba(35, 48, 79, 0.055);
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 4px;
+      background: var(--cv-accent, var(--cv-blue));
+    }
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 26px rgba(35, 48, 79, 0.09);
+    }
+
+    > .card-title {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      margin-bottom: 1rem;
+      font-size: 1.18rem;
+      font-weight: 750 !important;
+      letter-spacing: -0.015em;
+
+      &::before {
+        counter-increment: cv-section;
+        content: counter(cv-section, decimal-leading-zero);
+        display: inline-grid;
+        place-items: center;
+        width: 2rem;
+        height: 2rem;
+        flex: 0 0 2rem;
+        border-radius: 9px;
+        color: #fff;
+        background: var(--cv-accent, var(--cv-blue));
+        font-size: 0.66rem;
+        font-weight: 800;
+        letter-spacing: 0.04em;
+      }
+    }
+  }
+
+  > a[id="General Information"] + .card,
+  > a[id="Work Experience"] + .card {
+    --cv-accent: var(--cv-blue);
+  }
+
+  > a[id="Education"] + .card,
+  > a[id="Research Interests"] + .card {
+    --cv-accent: var(--cv-violet);
+  }
+
+  > a[id="Selected Honors & Awards"] + .card {
+    --cv-accent: var(--cv-gold);
+  }
+
+  > a[id="Science Communication & Outreach"] + .card {
+    --cv-accent: var(--cv-coral);
+    background:
+      radial-gradient(circle at 96% 8%, rgba(239, 115, 95, 0.13) 0 70px, transparent 71px),
+      var(--global-card-bg-color);
+
+    .list-group-item {
+      padding: 0.9rem 0.25rem 0.9rem 1.25rem;
+
+      &::before {
+        content: "✦";
+        position: absolute;
+        left: 0.15rem;
+        top: 0.92rem;
+        color: var(--cv-coral);
+        font-size: 0.7rem;
+      }
+    }
+
+    [lang="zh-CN"] {
+      display: inline-block;
+      margin-top: 0.42rem;
+      color: var(--global-text-color-light);
+      font-size: 0.88rem;
+      line-height: 1.65;
+    }
+  }
+
+  > a[id="Interests"] + .card {
+    --cv-accent: var(--cv-teal);
+  }
+
+  .list-group-item {
+    position: relative;
+    border-color: color-mix(in srgb, var(--global-divider-color) 72%, transparent);
+    line-height: 1.65;
+  }
+
+  .badge.danger-color-dark {
+    padding: 0.45rem 0.55rem;
+    border-radius: 8px;
+    color: #fff;
+    background: var(--cv-accent, var(--cv-blue)) !important;
+    box-shadow: none;
+  }
+
+  h6.title {
+    color: var(--global-text-color);
+    font-size: 0.98rem;
+  }
+
+  ul.items {
+    margin-top: 0.65rem;
+    padding-left: 2.2rem;
+
+    li::marker {
+      color: var(--cv-accent, var(--cv-blue));
+    }
+  }
+
+  table.institution {
+    margin-bottom: 0.6rem;
+  }
+
+  i.iconinstitution,
+  i.icondepartment,
+  i.iconlocation {
+    color: var(--cv-accent, var(--cv-blue));
+  }
+}
+
+.post:has(.cv) .post-header {
+  position: relative;
+  margin-bottom: 1.8rem;
+  padding: 1.6rem 1.8rem;
+  overflow: hidden;
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(77, 127, 232, 0.12), rgba(138, 105, 212, 0.1));
+
+  &::after {
+    content: "CV";
+    position: absolute;
+    right: 1.25rem;
+    bottom: -1.7rem;
+    color: var(--global-text-color);
+    font-size: 6rem;
+    font-weight: 900;
+    line-height: 1;
+    opacity: 0.045;
+    pointer-events: none;
+  }
+
+  .post-title {
+    margin-bottom: 0.35rem;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    text-transform: uppercase;
+  }
+
+  .post-description {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .cv > .card {
+    padding: 1.2rem !important;
+    border-radius: 15px;
+  }
+
+  .cv > .card > .card-title {
+    align-items: flex-start;
+    font-size: 1.05rem;
+  }
+
+  .post:has(.cv) .post-header {
+    padding: 1.25rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cv > .card {
+    transition: none;
+  }
+}
+
+@media print {
+  .cv > .card {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+
+  .cv > .card:hover {
+    transform: none;
+  }
+}
+
 div.container-link-button {
   margin-right: 0.5rem;
 }

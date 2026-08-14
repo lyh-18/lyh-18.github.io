@@ -1,4 +1,4 @@
-# Add future articles here. Supported art values: gravity, truth, gourd, soil, 5g.
+# Add future articles here. Supported art values: gravity, truth, gourd, soil, 5g, face-id.
 - title: 物理定律告诉你，天下有情人终将分手！
   url: https://mp.weixin.qq.com/s/_dEUZbKgWQ5kPcf-LI8xjw
   theme: coral
@@ -33,3 +33,10 @@
   art: 5g
   tags: [5G, 通信技术, 社交]
   summary: 速度更快、延迟更低、连接更多——下一代通信技术会怎样改变人与人的距离？
+
+- title: 校庆献礼｜用人脸识别技术戴上国科大专属学位帽
+  url: https://mp.weixin.qq.com/s/pDVXX91yQtKtDgCMacPnTQ
+  theme: coral
+  art: face-id
+  tags: [人脸识别, 深度学习, 校庆]
+  summary: 当人脸关键点检测遇上毕业仪式感：用人工智能为每一张头像戴上国科大专属学位帽。

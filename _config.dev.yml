@@ -1,0 +1,9 @@
+# Local Windows preview overrides.
+# jekyll-imagemagick 1.4.0 invokes the legacy `convert` executable, which
+# collides with C:\Windows\System32\convert.exe under ImageMagick 7.
+imagemagick:
+  enabled: false
+
+# This site currently has no paginated blog index.
+pagination:
+  enabled: false
