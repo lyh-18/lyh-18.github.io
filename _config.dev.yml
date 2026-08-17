@@ -7,3 +7,6 @@ imagemagick:
 # This site currently has no paginated blog index.
 pagination:
   enabled: false
+
+# Avoid network-dependent demo feeds during local preview/build.
+external_sources: []
