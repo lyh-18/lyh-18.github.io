@@ -88,7 +88,7 @@ description: Research, curiosity, communication, and the long game.
           <h3>球场教会我的，是耐心与节奏</h3>
           <p>羽毛球是<strong>科研之外最稳定的一项爱好</strong>。和球友训练、交流，在工作卡住时去球场出一身汗，常常能让我重新找回松弛感。很幸运，我曾和搭档获得首届全球高校博士羽毛球公开赛甲组男双冠军，也拿过中科院深圳先进院羽毛球赛男单冠军；但比名次更重要的，是长期练习带来的改变。我偏爱<strong>“拉吊控球型”打法</strong>，不追求每一拍都漂亮，而是尽量减少失误、稳住节奏，在来回多拍中等待机会。这种朴素的方法，也提醒我如何面对<strong>漫长而不确定的科研过程</strong>。</p>
           <blockquote>科研和打球的底层逻辑很像：真正拉开差距的，是日复一日的积累。</blockquote>
-          <div class="journey-links"><a href="https://www.kaiwind.com/n397/n401/c699999/content.html" target="_blank" rel="noopener noreferrer">赛事报道 ↗</a><a href="https://mp.weixin.qq.com/s/-NYgaJfMoVOjOMsBQISUOA" target="_blank" rel="noopener noreferrer">“书院榜样”人物专访 ↗</a></div>
+          <div class="journey-links"><a href="https://www.kaiwind.com/n397/n401/c699999/content.html" target="_blank" rel="noopener noreferrer">赛事报道 ↗</a><a href="https://mp.weixin.qq.com/s/8Z7Q7kC8535OpmuskSpuJg" target="_blank" rel="noopener noreferrer">《神仙院“打”起来了，超燃！》 ↗</a><a href="https://mp.weixin.qq.com/s/-NYgaJfMoVOjOMsBQISUOA" target="_blank" rel="noopener noreferrer">“书院榜样”人物专访 ↗</a></div>
         </div>
         <figure><img src="{{ '/assets/img/journey/spotlight-5.jpg' | relative_url }}" alt="刘翼豪获得深圳先进院羽毛球赛男单冠军"><figcaption>球场之内，也是生活的一部分</figcaption></figure>
       </article>

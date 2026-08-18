@@ -11,7 +11,7 @@ description: 把硬核知识，讲成有趣的故事。
   <section class="science-hero" aria-labelledby="science-hero-title">
     <div class="science-hero-copy">
       <span class="science-kicker">YIHAO'S POP SCIENCE LAB</span>
-      <h2 id="science-hero-title">一本正经地，<br><em>打开科学脑洞</em></h2>
+      <h2 id="science-hero-title"><span>一本正经地，</span><em>打开科学脑洞</em></h2>
       <p>从爱情里的物理定律，到葫芦娃的黑科技——用熟悉的生活切片，拆解那些好玩又硬核的科学原理。</p>
       <a class="science-start" href="#articles">开始探索 <span aria-hidden="true">↓</span></a>
     </div>
