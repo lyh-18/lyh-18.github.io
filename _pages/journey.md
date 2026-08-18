@@ -18,7 +18,7 @@ description: Research, curiosity, communication, and the long game.
       <img src="{{ '/assets/img/journey/spotlight-2.jpg' | relative_url }}" alt="刘翼豪在公开活动中进行技术分享">
       <figcaption>让技术走出实验室，也让表达成为研究的一部分。</figcaption>
     </figure>
-    <div class="journey-tags"><span>人工智能研究员</span><span>多模态生成与理解</span><span>科普创作者</span><span>羽毛球爱好者</span><span>什么都略懂一点</span></div>
+    <div class="journey-tags"><span>人工智能研究员</span><span>多模态生成与理解</span><span>科普创作者</span><span>羽毛球爱好者</span><span>健身新手</span></div>
   </section>
 
   <section class="journey-themes" aria-labelledby="journey-themes-title">
