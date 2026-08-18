@@ -12,13 +12,13 @@ description: Research, curiosity, communication, and the long game.
     <div class="journey-hero-copy">
       <span class="journey-kicker">MY JOURNEY · 研究之外，生活之内</span>
       <h2><span class="journey-hero-line">认真探索世界，</span><em class="journey-hero-line">也认真感受生活。</em></h2>
-      <p>一路走来，科研是最重要的主线，却不是生活的全部。求学、写科普、做校媒、策划校园活动、打羽毛球，以及和不同领域的伙伴一起探索 AI 与艺术——这些看似分散的经历，让我不断认识新的世界，也更清楚地看到自己的不足。这里记录的不是一张成绩单，而是一些仍在继续的兴趣、尝试与成长。</p>
-      <div class="journey-tags"><span>人工智能研究员</span><span>多模态生成与理解</span><span>科普创作者</span><span>羽毛球爱好者</span><span>什么都略懂一点</span></div>
+      <p>一路走来，科研是最重要的主线，却不是生活的全部。求学、写科普、做校媒、策划校园活动、打羽毛球，以及和不同领域的伙伴一起探索 AI 与跨学科的碰撞——这些看似分散的经历，让我不断认识新的世界，也更清楚地看到自己的不足。这里记录的不是一张成绩单，而是一些仍在继续的兴趣、尝试与成长。</p>
     </div>
     <figure class="journey-hero-photo">
       <img src="{{ '/assets/img/journey/spotlight-2.jpg' | relative_url }}" alt="刘翼豪在公开活动中进行技术分享">
       <figcaption>让技术走出实验室，也让表达成为研究的一部分。</figcaption>
     </figure>
+    <div class="journey-tags"><span>人工智能研究员</span><span>多模态生成与理解</span><span>科普创作者</span><span>羽毛球爱好者</span><span>什么都略懂一点</span></div>
   </section>
 
   <section class="journey-themes" aria-labelledby="journey-themes-title">
@@ -35,9 +35,10 @@ description: Research, curiosity, communication, and the long game.
           <h3>从国科大出发，向熟悉的边界之外多走一步</h3>
           <p>从昆明跨越三千多公里来到北京，成为<strong>中国科学院大学首届本科生</strong>，是我第一次真正离开熟悉的生活。那时对大学和科研都谈不上了解，只是带着好奇心，一点点适应高强度的数理基础课程，也慢慢学会主动寻找问题。后来赴<strong>西澳大学访学</strong>，在不同的课堂、文化和生活方式中重新认识世界；本科毕业后，又来到<strong>中国科学院深圳先进技术研究院</strong>攻读博士，从“学习已有答案”转向探索那些尚未有标准答案的问题。北京、珀斯、深圳与上海，每一次迁移都伴随着不适应，也让我愿意对陌生领域多走一步、多问一句。国科大教给我的，不只是知识，更是<strong>面对未知时敢于尝试的底气</strong>。</p>
           <div class="journey-links">
-            <a href="https://news.sciencenet.cn/dz/upload/2014910662895.pdf" target="_blank" rel="noopener noreferrer">首届本科生报道 ↗</a>
-            <a href="https://mp.weixin.qq.com/s/Njtph7C9kLLsxmSHcjd7ww" target="_blank" rel="noopener noreferrer">与诺奖得主共进晚餐：西澳访学记 ↗</a>
             <a href="https://mp.weixin.qq.com/s/k5YnZpI7f2n4ZAKnC_kMBw" target="_blank" rel="noopener noreferrer">UCASer 的毕业故事 ↗</a>
+            <a href="https://mp.weixin.qq.com/s/Njtph7C9kLLsxmSHcjd7ww" target="_blank" rel="noopener noreferrer">与诺奖得主共进晚餐：西澳访学记 ↗</a>
+            <a href="https://news.sciencenet.cn/htmlnews/2018/6/414265.shtm" target="_blank" rel="noopener noreferrer">“国科大味道”的本科生熟了！ ↗</a>
+            <a href="https://news.sciencenet.cn/dz/upload/2014910662895.pdf" target="_blank" rel="noopener noreferrer">首届本科生报道 ↗</a>
           </div>
         </div>
         <div class="journey-duo">
@@ -51,7 +52,7 @@ description: Research, curiosity, communication, and the long game.
         <div class="journey-card-copy">
           <div class="journey-labels"><span>校园媒体</span><span>数据驱动</span><span>团队协作</span></div>
           <h3>以做科研的态度，认真经营一份校园媒体</h3>
-          <p>担任<strong>国科大官方微信学生团队编辑部主任</strong>时，我们没有新闻专业背景，便试着把熟悉的理工科方法用到校媒中：观察阅读量、点赞数与打开路径，研究订阅者地域、手机型号、屏幕尺寸，甚至讨论多长的导语更容易让人读下去。这个以研究生和理工科同学为主的 44 人团队，一边用数据了解读者，一边努力保留真诚的校园情怀。据当时的内容统计，我参与策划和创作的作品中有<strong>6 篇单篇阅读量超过 10 万</strong>；团队也曾多次进入北京乃至全国高校微信榜单前列。数字带来鼓励，但更珍贵的是和伙伴们反复改稿、深夜排版的经历，以及读者留言中那份<strong>对校园的共同认同</strong>。</p>
+          <p>担任<strong>国科大官方微信学生团队编辑部主任</strong>时，我们没有新闻专业背景，便试着把熟悉的理工科方法用到校媒中：观察阅读量、点赞数与打开路径，研究订阅者地域、手机型号、屏幕尺寸，甚至讨论多长的导语更容易让人读下去。大家一边用数据了解读者，一边努力保留真诚的校园情怀。据当时的内容统计，我参与策划和创作的作品中有<strong>6 篇单篇阅读量超过 10 万</strong>；团队也曾多次进入北京乃至全国高校微信榜单前列。数字带来鼓励，但更珍贵的是和伙伴们反复改稿、深夜排版的经历，以及读者留言中那份<strong>对校园的共同认同</strong>。</p>
           <div class="journey-links"><a href="https://mp.weixin.qq.com/s/nRxenXkfEggALLPWLIIoew" target="_blank" rel="noopener noreferrer">官微上线一年，鬼知道我们经历了什么？ ↗</a><a href="https://zqb.cyol.com/html/2016-12/20/nw.D110000zgqnb_20161220_3-12.htm" target="_blank" rel="noopener noreferrer">《中国青年报》：以做科研的态度做校媒 ↗</a><a href="https://news.ucas.ac.cn/xydt/25cab1e2687042c7bdccd72c2b11e1e9.htm" target="_blank" rel="noopener noreferrer">高校传媒论坛报道 ↗</a><a href="https://news.ucas.ac.cn/ywsd/5948e2d9144441518d62981d9b4cc797.htm" target="_blank" rel="noopener noreferrer">新媒体传播体系研讨会 ↗</a></div>
         </div>
       </article>
@@ -71,13 +72,13 @@ description: Research, curiosity, communication, and the long game.
           <div class="journey-labels"><span>技术有温度</span><span>活动策划</span><span>共同记忆</span></div>
           <h3>把“不务正业”的脑洞，变成校园里的真实现场</h3>
           <p>科研之外，我总喜欢接下一些看起来有点<strong>“不务正业”</strong>的活：剪辑国科大与研究所的新春拜年视频，参与策划计算机学院草地音乐节，也和伙伴们筹备过魔法主题毕业晚会。比起站在聚光灯下，我更多时候是在幕后做方案、改物料、对流程、盯现场，和许多老师、同学一起把一个模糊的点子慢慢落地。国科大四十周年校庆时，我们还把<strong>人脸关键点检测</strong>做成互动作品：上传一张照片，就能戴上带有校庆标识的专属学位帽。音乐节让草坪成为舞台，算法让校庆多了一枚有趣的数字纪念品。这些经历让我发现，自己真正热衷的是<strong>组织、策划和创造共同体验</strong>，也愿意把手边的技术用到课堂和论文之外。</p>
-          <div class="journey-links"><a href="https://mp.weixin.qq.com/s/B76rHAJLAIyMEq4SgC1YDw" target="_blank" rel="noopener noreferrer">2017 国科大·科研院所拜年视频预告 ↗</a><a href="https://mp.weixin.qq.com/s/ot4ItQcX70TNCcqHfLgwjw" target="_blank" rel="noopener noreferrer">国科大师生四海九州春节拜年特辑预告 ↗</a><a href="https://www.bilibili.com/video/BV1Zs411h73i/" target="_blank" rel="noopener noreferrer">在 B 站观看“2017 中国科学院大学院所拜年特辑” ▶</a><a href="https://v.qq.com/x/page/v0832iy3tvz.html" target="_blank" rel="noopener noreferrer">在腾讯视频观看“2019 新春拜年特辑” ▶</a><a href="https://mp.weixin.qq.com/s/PAEbhfRolRkz8HwZ_s9yPw" target="_blank" rel="noopener noreferrer">草地音乐节报道 ↗</a><a href="https://mp.weixin.qq.com/s/pDVXX91yQtKtDgCMacPnTQ" target="_blank" rel="noopener noreferrer">人脸识别学位帽 ↗</a><a href="https://news.ucas.ac.cn/kyrw/736a70759bfb459d99680900d5f7b037.htm" target="_blank" rel="noopener noreferrer">更多校园故事 ↗</a></div>
+          <div class="journey-links"><a href="https://mp.weixin.qq.com/s/B76rHAJLAIyMEq4SgC1YDw" target="_blank" rel="noopener noreferrer">【官微】2017 国科大·科研院所拜年视频预告 ↗</a><a href="https://mp.weixin.qq.com/s/ot4ItQcX70TNCcqHfLgwjw" target="_blank" rel="noopener noreferrer">【官微】2019 国科大·科研院所拜年视频预告 ↗</a><a href="https://www.bilibili.com/video/BV1Zs411h73i/" target="_blank" rel="noopener noreferrer">【视频】在 B 站观看“2017 中国科学院大学院所拜年视频” ▶</a><a href="https://v.qq.com/x/page/v0832iy3tvz.html" target="_blank" rel="noopener noreferrer">【视频】在腾讯视频观看“2019 中国科学院大学院所拜年视频” ▶</a><a href="https://mp.weixin.qq.com/s/PAEbhfRolRkz8HwZ_s9yPw" target="_blank" rel="noopener noreferrer">【官微】草地音乐节报道 ↗</a><a href="https://mp.weixin.qq.com/s/pDVXX91yQtKtDgCMacPnTQ" target="_blank" rel="noopener noreferrer">人脸识别学位帽 ↗</a><a href="https://news.ucas.ac.cn/kyrw/736a70759bfb459d99680900d5f7b037.htm" target="_blank" rel="noopener noreferrer">更多校园故事 ↗</a></div>
         </div>
         <div class="journey-duo journey-media-gallery">
           <figure><a href="https://mp.weixin.qq.com/s/PAEbhfRolRkz8HwZ_s9yPw" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/grassland-music-2019.png' | relative_url }}" alt="中国科学院大学计算机学院草地音乐节现场"></a><figcaption>草地音乐节 · 点击阅读报道</figcaption></figure>
           <figure><a href="https://mp.weixin.qq.com/s/pDVXX91yQtKtDgCMacPnTQ" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/ucas-degree-hat.jpg' | relative_url }}" alt="人脸识别生成的国科大四十周年专属学位帽效果"></a><figcaption>人工智能 × 国科大专属学位帽</figcaption></figure>
-          <figure class="journey-video-still"><a href="https://www.bilibili.com/video/BV1Zs411h73i/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/ucas-new-year-video.jpg' | relative_url }}" alt="2017中国科学院大学院所拜年特辑预告视频封面"><span aria-hidden="true">▶</span></a><figcaption>2017 国科大·科研院所拜年特辑预告</figcaption></figure>
-          <figure class="journey-video-still"><a href="https://v.qq.com/x/page/v0832iy3tvz.html" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/ucas-new-year-video-2019.jpg' | relative_url }}" alt="2019中国科学院大学新春拜年特辑视频封面"><span aria-hidden="true">▶</span></a><figcaption>2019 国科大新春拜年特辑</figcaption></figure>
+          <figure class="journey-video-still"><a href="https://www.bilibili.com/video/BV1Zs411h73i/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/ucas-new-year-video.jpg' | relative_url }}" alt="2017中国科学院大学院所拜年特辑预告视频封面"><span aria-hidden="true">▶</span></a><figcaption>2017 国科大·科研院所拜年特辑</figcaption></figure>
+          <figure class="journey-video-still"><a href="https://v.qq.com/x/page/v0832iy3tvz.html" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/ucas-new-year-video-2019.jpg' | relative_url }}" alt="2019中国科学院大学新春拜年特辑视频封面"><span aria-hidden="true">▶</span></a><figcaption>2019 国科大·科研院所拜年特辑</figcaption></figure>
         </div>
       </article>
 
@@ -89,7 +90,7 @@ description: Research, curiosity, communication, and the long game.
           <blockquote>科研和打球的底层逻辑很像：真正拉开差距的，是日复一日的积累。</blockquote>
           <div class="journey-links"><a href="https://www.kaiwind.com/n397/n401/c699999/content.html" target="_blank" rel="noopener noreferrer">赛事报道 ↗</a><a href="https://mp.weixin.qq.com/s/-NYgaJfMoVOjOMsBQISUOA" target="_blank" rel="noopener noreferrer">“书院榜样”人物专访 ↗</a></div>
         </div>
-        <figure><img src="{{ '/assets/img/journey/spotlight-5.jpg' | relative_url }}" alt="刘翼豪获得深圳先进院羽毛球赛男单冠军"><figcaption>赛场之外，也是生活的一部分</figcaption></figure>
+        <figure><img src="{{ '/assets/img/journey/spotlight-5.jpg' | relative_url }}" alt="刘翼豪获得深圳先进院羽毛球赛男单冠军"><figcaption>球场之内，也是生活的一部分</figcaption></figure>
       </article>
 
       <article id="journey-resilience" class="journey-card journey-card-horizontal card-violet journey-order-2">
@@ -103,15 +104,19 @@ description: Research, curiosity, communication, and the long game.
       </article>
 
       <article id="journey-artimuse" class="journey-card journey-card-horizontal journey-card-artimuse card-blue journey-order-7">
-        <figure class="journey-image-focus-person"><img src="{{ '/assets/img/journey/waic-artimuse.jpg' | relative_url }}" alt="刘翼豪在WAIC 2025发布ArtiMuse美学理解大模型"><figcaption>WAIC 2025 · 发布 ArtiMuse 美学理解大模型</figcaption></figure>
-        <div class="journey-card-copy">
-          <div class="journey-labels"><span>AI × 艺术</span><span>东方美学</span><span>跨学科合作</span></div>
-          <h3>让 AI 理解“什么是美”</h3>
-          <p>“什么是美”是一个远比模型指标复杂的问题。和中国美术学院团队合作时，我们带着算法与工程经验进入一个并不熟悉的领域，也不断向艺术专家学习如何理解构图、意境、笔墨与情感。双方共同研发的<strong>“书生·妙析 ArtiMuse”</strong>，尝试把<strong>中国传统美学思想与专业评价体系</strong>融入模型，让 AI 不仅给出分数，还能解释作品美在哪里、可以如何改进。这个过程让我越来越相信，跨学科合作不是把两个名词放在一起，而是<strong>承认各自的局限，耐心建立一种彼此听得懂的语言</strong>。</p>
+        <div class="artimuse-visuals">
+          <figure class="journey-image-focus-person"><img src="{{ '/assets/img/journey/waic-artimuse.jpg' | relative_url }}" alt="刘翼豪在WAIC 2025发布ArtiMuse美学理解大模型"><figcaption>WAIC 2025 · 发布 ArtiMuse 美学理解大模型</figcaption></figure>
           <div class="artimuse-access">
             <a class="artimuse-qr" href="https://artimuse.intern-ai.org.cn/" target="_blank" rel="noopener noreferrer"><img src="{{ '/assets/img/journey/artimuse-poster.png' | relative_url }}" alt="ArtiMuse妙析在线体验海报与二维码"><span>扫码或点击，在线分析你的美学细胞</span></a>
             <div><a href="https://thunderbolt215.github.io/ArtiMuse-project/" target="_blank" rel="noopener noreferrer">访问 ArtiMuse 项目主页 ↗</a><a href="https://artimuse.intern-ai.org.cn/" target="_blank" rel="noopener noreferrer">在线体验 Demo ↗</a></div>
           </div>
+        </div>
+        <div class="journey-card-copy">
+          <div class="journey-labels"><span>AI × 艺术</span><span>东方美学</span><span>跨学科合作</span></div>
+          <h3>让 AI 理解“什么是美”</h3>
+          <p>“什么是美”是一个远比模型指标复杂的问题。同一幅作品，可以从构图、色彩、笔墨、意境与情感等不同角度被理解；不同文化背景和审美经验，也可能带来完全不同的判断。和中国美术学院团队合作时，我们带着算法与工程经验进入一个并不熟悉的领域，也不断向艺术专家学习：<strong>专业的审美判断究竟如何形成，又该怎样被清晰、可靠地表达出来</strong>。</p>
+          <p>双方共同研发的<strong>“书生·妙析 ArtiMuse”</strong>，尝试把<strong>中国传统美学思想与专业评价体系</strong>融入多模态模型。相比只输出一个笼统的分数，我们更希望模型能够结合图像内容给出有依据的分析：作品的视觉重点在哪里，形式与情绪如何彼此呼应，又有哪些细节仍有调整空间。为了让艺术语言与模型语言相互对应，团队需要反复讨论概念、整理案例、校准评价维度，也需要不断检查模型的回答是否真正回应了作品本身。</p>
+          <p>项目在 WAIC 2025 进行展示，并开放了可直接体验的在线 Demo。用户上传一张图像，便可以获得一份面向普通创作者的美学分析。它当然还无法替代人的审美经验，更不是为“美”提供唯一答案；我们更愿意把它理解为<strong>一次让 AI 学习欣赏、让专业知识走近公众的尝试</strong>。这个过程也让我越来越相信，跨学科合作不是把两个名词放在一起，而是承认各自的局限，耐心建立一种彼此听得懂的语言。</p>
           <div class="journey-links"><a href="https://mp.weixin.qq.com/s/PBjQyKOCsv1gxY4cIn9t0w" target="_blank" rel="noopener noreferrer">《中国科学报》深度报道 ↗</a><a href="https://www.shlab.org.cn/news/5444079" target="_blank" rel="noopener noreferrer">上海 AI Lab 青年群像 ↗</a></div>
         </div>
       </article>
