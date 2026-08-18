@@ -137,6 +137,52 @@
 .journey-closing a { padding: .65rem 1rem; border: 1px solid #fff; border-radius: 999px; font-weight: 750; }
 .journey-closing a:hover { background: #fff; color: var(--j-ink); text-decoration: none; }
 
+html[data-theme="dark"] {
+  .journey-page {
+    --j-ink: #e7ecf6;
+    --j-blue: #78a7f4;
+    --j-violet: #ad91e8;
+    --j-coral: #f18a78;
+    --j-yellow: #e7c864;
+    --j-teal: #69c8bc;
+  }
+
+  .journey-hero {
+    border: 1px solid #353d55;
+    background: linear-gradient(135deg, #202633, #29243a);
+  }
+
+  .journey-hero::after { opacity: .2; }
+  .journey-hero h2 { color: #f2f5fb; }
+  .journey-hero h2 em { color: #b99cf2; }
+  .journey-hero p { color: #bdc7d9; }
+  .journey-tags span { color: #e7ecf6; border-color: #69758d; background: rgba(255, 255, 255, .035); }
+  .journey-hero-photo img { border-color: #aab6cc; box-shadow: 10px 11px 0 #111722; }
+  .journey-hero-photo figcaption,
+  .journey-card figcaption { color: #9eabc0; }
+
+  .journey-card { border-color: #373f4e; box-shadow: 0 9px 28px rgba(0, 0, 0, .22); }
+  .journey-card p { color: #b9c3d3; }
+  .journey-card p strong { color: color-mix(in srgb, var(--card-accent) 78%, #f0f3f8); }
+  .journey-labels span { background: color-mix(in srgb, var(--card-accent) 9%, transparent); }
+  .journey-links a { border-color: #465064; background: rgba(255, 255, 255, .025); }
+  .journey-links a:hover { border-color: var(--card-accent); background: color-mix(in srgb, var(--card-accent) 10%, transparent); }
+  .journey-media-gallery figure,
+  .artimuse-visuals { background: color-mix(in srgb, #202630 88%, var(--card-accent)); }
+  .artimuse-visuals .artimuse-access { border-color: #414b5e; background: #1b2029; }
+  .artimuse-access > div a { background: #384b6c; color: #f5f7fb; }
+  .artimuse-access > div a:hover { background: #5273aa; }
+
+  .home-journey { border-color: #373f50; background: linear-gradient(135deg, #202630, #262235); }
+  .home-journey-facets a { border-color: #394252; background: #20252e; }
+  .home-journey-facets a:hover { border-color: #655a87; box-shadow: 0 10px 25px rgba(0, 0, 0, .28); }
+  .home-journey-facets span,
+  .journey-preview-kicker { color: #b69ae9; }
+
+  .journey-closing { background: #171c27; border: 1px solid #343d50; }
+  .journey-closing a:hover { background: #edf2fa; color: #171c27; }
+}
+
 @media (max-width: 780px) {
   .journey-hero { grid-template-columns: 1fr; }
   .journey-hero-photo { transform: none; }

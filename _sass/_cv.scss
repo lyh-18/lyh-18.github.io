@@ -201,6 +201,24 @@
   }
 }
 
+html[data-theme="dark"] {
+  .cv > .card {
+    border-color: #383f4d;
+    box-shadow: 0 7px 22px rgba(0, 0, 0, 0.2);
+  }
+
+  .cv > .card:hover { box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3); }
+
+  .cv > a[id="Science Communication & Outreach"] + .card {
+    background:
+      radial-gradient(circle at 96% 8%, rgba(239, 115, 95, 0.09) 0 70px, transparent 71px),
+      #20252e;
+  }
+
+  .cv > a[id="Science Communication & Outreach"] + .card [lang="zh-CN"] { color: #aeb9ca; }
+  .post:has(.cv) .post-header { border: 1px solid #383f50; background: linear-gradient(135deg, #202936, #282338); }
+}
+
 @media print {
   .cv > .card {
     break-inside: avoid;
