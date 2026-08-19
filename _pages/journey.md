@@ -31,7 +31,7 @@ description: Research, curiosity, communication, and the long game.
     <div class="journey-grid">
       <article id="journey-growth" class="journey-card journey-card-wide card-blue journey-order-1">
         <div class="journey-card-copy">
-          <div class="journey-labels"><span>第一次远行</span><span>跨学科求学</span><span>打开眼界</span></div>
+          <div class="journey-labels"><span>第一次远行</span><span>跨地域求学</span><span>打开眼界</span></div>
           <h3>从国科大出发，向熟悉的边界之外多走一步</h3>
           <p>从昆明跨越三千多公里来到北京，成为<strong>中国科学院大学首届本科生</strong>，是我第一次真正离开熟悉的生活。那时对大学和科研都谈不上了解，只是带着好奇心，一点点适应高强度的数理基础课程，也慢慢学会主动寻找问题。后来赴<strong>西澳大学访学</strong>，在不同的课堂、文化和生活方式中重新认识世界；本科毕业后，又来到<strong>中国科学院深圳先进技术研究院</strong>攻读博士，从“学习已有答案”转向探索那些尚未有标准答案的问题。北京、珀斯、深圳与上海，每一次迁移都伴随着不适应，也让我愿意对陌生领域多走一步、多问一句。国科大教给我的，不只是知识，更是<strong>面对未知时敢于尝试的底气</strong>。</p>
           <div class="journey-links">
@@ -127,6 +127,6 @@ description: Research, curiosity, communication, and the long game.
     <span class="journey-kicker">KEEP EXPLORING</span>
     <h2>什么都略懂一点，<br>生活更精彩一些。</h2>
     <p>科研是长跑，也只是生活的一部分。保持好奇，认真做事，允许失败，然后继续向前。</p>
-    <div><a href="{{ '/cv/' | relative_url }}">查看完整 CV →</a><a href="{{ '/popular-science/' | relative_url }}">阅读科普文章 →</a></div>
+    <div><a href="{{ '/' | relative_url }}">从这里了解我 →</a><a href="{{ '/cv/' | relative_url }}">查看完整 CV →</a><a href="{{ '/popular-science/' | relative_url }}">阅读科普文章 →</a></div>
   </section>
 </div>
